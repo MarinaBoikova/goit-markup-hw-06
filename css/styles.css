@@ -546,6 +546,7 @@ border: 1px solid  #2196f3;
   color: var(--primary-white-color);
   outline: transparent;
   border: none;
+  cursor: pointer;
  
   transition-property: background-color, color, box-shadow;
   transition-duration: 250ms;
